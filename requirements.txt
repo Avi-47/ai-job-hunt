@@ -12,3 +12,4 @@ python-docx
 easyocr
 pillow
 pytesseract
+reportlab
