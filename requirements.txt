@@ -1,7 +1,7 @@
 streamlit
 crewai>=0.30.0
-litellm>=1.40.0
 python-dotenv
 requests
 pandas
 numpy
+groq
