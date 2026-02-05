@@ -11,3 +11,4 @@ pypdf
 python-docx
 easyocr
 pillow
+pytesseract
