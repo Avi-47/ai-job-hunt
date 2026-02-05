@@ -1,0 +1,201 @@
+{
+  "skills": [
+    "data structures and algorithms",
+    "advanced algorithms",
+    "algorithm design",
+    "algorithm optimization",
+    "algorithm characterization",
+    "performance analysis",
+    "system performance",
+    "profiling and benchmarking",
+    "computational complexity",
+    "python",
+    "java",
+    "c++",
+    "object-oriented programming",
+    "software engineering",
+    "software development",
+    "software architecture",
+    "software components",
+    "modular design",
+    "system integration",
+    "systems engineering",
+    "requirements analysis",
+    "technical documentation",
+    "software development lifecycle",
+    "coding standards",
+    "secure coding practices",
+    "debugging",
+    "root cause analysis",
+    "multithreading",
+    "concurrency",
+    "parallel computing basics",
+    "distributed systems",
+    "real-time systems basics",
+    "sql",
+    "nosql",
+    "dbms",
+    "database design",
+    "database indexing",
+    "query optimization",
+    "operating systems",
+    "process scheduling",
+    "memory management",
+    "computer networks",
+    "tcp/ip",
+    "linux",
+    "shell scripting",
+    "rest apis",
+    "microservices architecture",
+    "api integration",
+    "data serialization (json",
+    "xml)",
+    "devops basics",
+    "ci/cd pipelines",
+    "version control",
+    "git",
+    "github",
+    "docker",
+    "containerization",
+    "cloud computing",
+    "aws basics (ec2",
+    "s3)",
+    "infrastructure fundamentals",
+    "unit testing",
+    "integration testing",
+    "qa fundamentals",
+    "test automation",
+    "pytest",
+    "junit",
+    "continuous testing",
+    "automation scripting",
+    "machine learning",
+    "applied machine learning",
+    "computer vision",
+    "data science",
+    "data analysis",
+    "data preprocessing",
+    "feature engineering",
+    "model evaluation",
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "scikit-learn",
+    "tensorflow basics",
+    "artificial intelligence fundamentals",
+    "simulation and modeling",
+    "system characterization",
+    "ux/ui collaboration basics",
+    "product lifecycle awareness",
+    "problem solving",
+    "analytical thinking"
+  ],
+  "projects": [
+    {
+      "title": "Job Portal Web App",
+      "tech": [
+        "java",
+        "spring boot",
+        "mysql"
+      ],
+      "description": "Designed modular software components, implemented secure authentication, optimized SQL queries, and integrated REST APIs with role-based access control"
+    },
+    {
+      "title": "Online Code Judge",
+      "tech": [
+        "python",
+        "flask",
+        "postgresql"
+      ],
+      "description": "Built an automated code evaluation system using algorithms and test case characterization, implemented sandboxed execution, performance analysis, and scalable backend services"
+    },
+    {
+      "title": "E-Commerce Backend API",
+      "tech": [
+        "node.js",
+        "express",
+        "mongodb"
+      ],
+      "description": "Developed distributed RESTful services, integrated third-party payment APIs, implemented caching and database indexing to improve system performance"
+    },
+    {
+      "title": "Chat Application",
+      "tech": [
+        "react",
+        "socket.io",
+        "firebase"
+      ],
+      "description": "Implemented real-time communication, event-driven architecture, message synchronization, and system integration with authentication services"
+    },
+    {
+      "title": "Algorithm Visualization Toolkit",
+      "tech": [
+        "python",
+        "matplotlib"
+      ],
+      "description": "Created visual simulations for sorting, graph, and dynamic programming algorithms to analyze time/space complexity and algorithm behavior"
+    },
+    {
+      "title": "Machine Learning Mini Projects",
+      "tech": [
+        "python",
+        "numpy",
+        "pandas",
+        "scikit-learn"
+      ],
+      "description": "Implemented classification, regression, and clustering models with data preprocessing, feature engineering, and performance evaluation"
+    },
+    {
+      "title": "System Performance Analyzer",
+      "tech": [
+        "python",
+        "linux"
+      ],
+      "description": "Built tools to profile CPU, memory, and I/O usage, performed system characterization, benchmarking, and performance optimization"
+    },
+    {
+      "title": "Autonomous Navigation Simulation",
+      "tech": [
+        "python",
+        "numpy"
+      ],
+      "description": "Developed simulation models for path planning and decision-making algorithms, focusing on optimization and performance analysis"
+    },
+    {
+      "title": "Computer Vision Pipeline",
+      "tech": [
+        "python",
+        "opencv"
+      ],
+      "description": "Implemented image preprocessing, feature extraction, and object detection pipelines for applied computer vision tasks"
+    },
+    {
+      "title": "ML Model Deployment API",
+      "tech": [
+        "python",
+        "flask",
+        "docker"
+      ],
+      "description": "Packaged machine learning models into REST APIs, containerized using Docker, and deployed with basic DevOps workflows"
+    },
+    {
+      "title": "Algorithm Optimization Suite",
+      "tech": [
+        "python"
+      ],
+      "description": "Implemented and optimized graph, search, and scheduling algorithms with benchmarking and comparative analysis"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Development Intern",
+      "company": "XYZ Tech Solutions",
+      "work": "Performed full-cycle software development including requirements analysis, system design, implementation, performance analysis, and optimization; characterized system behavior, improved response times, integrated distributed software components, and followed coding standards in production systems serving 10k+ users"
+    },
+    {
+      "role": "Open Source Contributor",
+      "company": "GitHub",
+      "work": "Contributed to large-scale software engineering projects by implementing algorithms, improving system performance, enhancing software architecture, adding automated tests, and collaborating on code reviews and QA processes"
+    }
+  ]
+}

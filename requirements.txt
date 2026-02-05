@@ -1,0 +1,8 @@
+streamlit
+crewai
+python-dotenv
+requests
+groq
+openai
+pandas
+numpy
