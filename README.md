@@ -348,16 +348,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Your Name** - [@yourtwitter]([https://twitter.com/yourtwitter](https://x.com/AvimanyuGo71678)) - avimanyug.ee.ug@jadavpuruniversity.in avimanyugoswami02@gmail.com
+Avimanyu Goswami
 
-Project Link: [https://github.com/yourusername/ai-job-hunt-assistant](https://github.com/yourusername/ai-job-hunt-assistant)
+🐦 X (Twitter): @AvimanyuGo71678
 
----
+📧 Email (University): avimanyug.ee.ug@jadavpuruniversity.in
+
+📧 Email (Personal): avimanyugoswami02@gmail.com
+
+🔗 Project Repository: AI Job Hunt Assistant
 
 <div align="center">
 
-**⭐ If this project helped you, please give it a star! ⭐**
-
+⭐ If this project helped you, please consider giving it a star! ⭐
+<br/>
 Made with ❤️ and 🤖 AI
 
 </div>
