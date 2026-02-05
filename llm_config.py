@@ -1,5 +1,5 @@
 import os
-from crewai.llms import Groq
+from crewai.llms.groq import Groq
 
 groq_llm = Groq(
     api_key=os.getenv("GROQ_API_KEY"),
