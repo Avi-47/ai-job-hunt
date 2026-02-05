@@ -6,3 +6,4 @@ groq
 openai
 pandas
 numpy
+python-3.11
