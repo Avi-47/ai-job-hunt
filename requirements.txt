@@ -13,3 +13,7 @@ easyocr
 pillow
 pytesseract
 reportlab
+streamlit
+sentence-transformers
+scikit-learn
+torch
