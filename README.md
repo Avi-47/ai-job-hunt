@@ -348,7 +348,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+**Your Name** - [@yourtwitter]([https://twitter.com/yourtwitter](https://x.com/AvimanyuGo71678)) - avimanyug.ee.ug@jadavpuruniversity.in avimanyugoswami02@gmail.com
 
 Project Link: [https://github.com/yourusername/ai-job-hunt-assistant](https://github.com/yourusername/ai-job-hunt-assistant)
 
