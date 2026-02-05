@@ -1,5 +1,4 @@
 import os
-from crewai import Agent
 from crewai.llms import Groq
 
 groq_llm = Groq(
