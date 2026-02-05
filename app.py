@@ -5,7 +5,7 @@ import streamlit as st
 import time
 from tools.usajobs_api import fetch_usajobs_api
 from crewai import Crew
-from tasks.analyze_job import analyze_job_task
+from tasks.analyze_job import get_analyze_job_task
 from agents.job_analyzer import job_analyzer
 from utils.logger import log_action
 # from data.resume_skills import MY_SKILLS
