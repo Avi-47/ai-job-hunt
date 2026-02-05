@@ -1,7 +1,7 @@
 streamlit
-crewai>=0.30.0
+crewai>=0.51.0
+groq
 python-dotenv
 requests
 pandas
 numpy
-groq
