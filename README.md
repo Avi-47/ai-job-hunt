@@ -350,7 +350,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Avimanyu Goswami
 
-🐦 X (Twitter): @AvimanyuGo71678
+🐦 X (Twitter): [@AvimanyuGo71678](https://x.com/AvimanyuGo71678)
 
 📧 Email (University): avimanyug.ee.ug@jadavpuruniversity.in
 
