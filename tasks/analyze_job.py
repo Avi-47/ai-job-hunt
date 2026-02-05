@@ -1,9 +1,10 @@
 from crewai import Task
 from agents.job_analyzer import job_analyzer
 
-analyze_job_task = Task(
-    agent=job_analyzer,
-    description="""
+def get_analyze_job_task():
+    return Task(
+        agent=job_analyzer,
+        description="""
 Extract ONLY concrete technical skills from the job posting.
 
 Job Data:
@@ -24,6 +25,6 @@ Return STRICT JSON only:
   "required_skills": []
 }
 """,
-    expected_output="JSON only",
-    output_key="analysis"
-)
+        expected_output="JSON only",
+        output_key="analysis"
+    )

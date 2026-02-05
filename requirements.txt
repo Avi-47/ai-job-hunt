@@ -1,8 +1,16 @@
 streamlit
-crewai
+crewai>=0.30.0
+litellm>=1.40.0
 python-dotenv
 requests
-groq
-openai
 pandas
+<<<<<<< HEAD
 numpy
+=======
+numpy
+pytesseract
+pillow
+pypdf
+python-docx
+easyocr
+>>>>>>> 7a23e050ce75b5f6771d0ca546654504479212e2
