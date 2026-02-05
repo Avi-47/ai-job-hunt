@@ -467,7 +467,7 @@ if st.session_state.jobs:
 
                 if st.button("🎤 Generate Interview Prep", key=f"interview_{idx}"):
                     with st.spinner("Preparing interview questions..."):
-                        interview_pack = run_interview_prep(job_req_text, st.session_state["resume_text"])
+                        interview_pack = interview_prep(job_req_text, st.session_state["resume_text"])
                     st.text_area("🎯 Interview Questions & Answers", interview_pack, height=400)
 
                 # ---------- MESSAGE ----------
