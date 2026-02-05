@@ -5,3 +5,8 @@ python-dotenv
 requests
 pandas
 numpy
+pytesseract
+pillow
+pypdf
+python-docx
+easyocr
