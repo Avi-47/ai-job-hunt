@@ -6,7 +6,7 @@ def clean_llm_output(text):
         text = text.split("Thought:")[-1]
     return text.strip()
 
-def run_interview_prep(job_requirements, resume_text):
+def interview_prep(job_requirements, resume_text):
 
     crew = Crew(
         agents=[interview_task.agent],

@@ -16,7 +16,7 @@ from utils.json_utils import extract_json
 # from utils.resume_parser import parse_resume
 from utils.skill_extractor import extract_skills
 from utils.file_reader import extract_text
-from utils.interview_runner import run_interview_prep
+from utils.interview_runner import interview_prep
 from utils.profile_manager import load_profile, save_profile
 from utils.resume_tailor import tailor_resume, format_resume
 from utils.relevance_runner import rank_projects_ai
