@@ -8,5 +8,6 @@ relevance_agent = Agent(
         "You are a technical recruiter who evaluates candidate projects against job descriptions. "
         "You understand skill alignment, relevance, and real-world applicability."
     ),
+    llm=groq_llm,
     verbose=True
 )
