@@ -197,14 +197,17 @@ if st.session_state.jobs:
             ):
                 with st.spinner("Analyzing job..."):
 
+                    analyze_job_task = get_analyze_job_task()
                     crew_analyze = Crew(
                         agents=[job_analyzer],
                         tasks=[analyze_job_task],
                         verbose=False
                     )
-
+                    
                     result = crew_analyze.kickoff(
-                        inputs={"job_data": job}
+                        inputs={
+                            "job_data": "\n".join(job["job_description"])
+                        }
                     )
 
                     time.sleep(6)
