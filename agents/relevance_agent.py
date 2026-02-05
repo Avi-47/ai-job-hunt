@@ -1,4 +1,5 @@
 from crewai import Agent
+from llm_config import groq_llm
 
 relevance_agent = Agent(
     role="Project Relevance Evaluator",
